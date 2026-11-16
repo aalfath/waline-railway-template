@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/waline?utm_medium=integration&utm_source=button&utm_campaign=waline)
+
 # Waline on Railway
 
 [Waline](https://waline.js.org) comment server with Postgres, packaged as a one-click [Railway template](https://railway.com/deploy/waline).

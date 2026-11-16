@@ -2,6 +2,10 @@
 
 Changes to the Waline Railway template. Deployers: read the entry before you apply an update from the Railway dashboard.
 
+## Unreleased (2026-11-16)
+
+- README: Deploy on Railway button linking to the published template (`waline`). No change to what gets deployed.
+
 ## 1.43.7 (2026-11-16)
 
 - **Changed:** the template now builds from this repository instead of running the upstream image with an inline start command. Railway shows you an "update available" notice when this repo's `main` changes, so you decide when to apply new Waline versions. Existing deploys keep running as they are. Your Postgres data and admin account are unchanged.
